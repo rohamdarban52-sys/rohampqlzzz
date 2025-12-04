@@ -19,7 +19,15 @@ def rang(x,v):
         t.rt(v)
     sleep(2)
 rang('#B52C07',101)'''
+
+
+
+
+
+'''roham=ali''''
+
    
+
 
 
 
